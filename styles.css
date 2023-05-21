@@ -1,0 +1,21 @@
+* { box-sizing: border-box; }
+
+body {
+	padding: 0;
+	margin: 0;
+	background-color: #f1f1f1;	
+	font-family: sans-serif;
+}
+
+.actionbar {
+	overflow: hidden;
+	background-color: black;
+}
+
+.left {
+	float: left;
+}
+
+.hidden {
+	display: none;
+}
